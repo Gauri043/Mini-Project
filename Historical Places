@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historical Places</title>
+    <style>
+       body{
+        
+       background-image: url("tricolor-indian-flag-theme-republic-day-watercolor-texture-background-free-vector.jpg");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: 1600px 1400px ;
+       }
+       header{
+        text-align: center;
+        font-style:bold;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-image: linear-gradient(120deg, orange,white,rgb(41, 237, 41));
+        font-size: 65px;
+        margin-top: 0px;
+       }
+       footer{
+        text-align: center;
+        font-style:bold;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-image: linear-gradient(120deg, orange,white,rgb(41, 237, 41));
+        font-size: 65px;
+        margin-bottom: 0px;
+       }
+</style>
+   
+</head>
+<body>
+    
+    <div align="center">
+        <header>Historical Places of India</header>
+    </div>
+    <br><br>
+    
+    <div align="left">
+        &emsp; &emsp; &emsp; &nbsp;
+        <a href="https://en.wikipedia.org/wiki/Taj_Mahal" target="a">
+            <img src="taj-mahal-visitor-limits.jpg" width="400px" height="250px"> 
+        </a>
+        &emsp; &emsp; &emsp; &emsp;
+        <a href="https://en.wikipedia.org/wiki/Hawa_Mahal"target="a">
+            <img src="h4_20170822181427.png"width="400px" height="250px">
+            </a>
+        &emsp; &emsp; &emsp; &emsp;
+        <a href="https://en.wikipedia.org/wiki/Kumbhalgarh"target="a">
+            <img src="1443537703_1.jpg"width="400px" height="250px">  
+        </a>
+    </div>
+
+    <h2>&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &ensp;Taj Mahal&emsp; &emsp; &emsp; &emsp;&emsp;
+         &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp;Hawa Mahal&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; 
+         &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&nbsp;Kumbhalgarh </h2>
+
+    <div align="left">
+        &emsp; &emsp; &emsp; &nbsp;
+        <a href="https://en.wikipedia.org/wiki/Qutb_Minar" target="a">
+            <img src="qutubminar_1200x768_0_1200x768.jpeg" width="400px" height="250px" >
+        </a>
+        &emsp; &emsp; &emsp; &emsp;
+        <a href="https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata" target="a">
+            <img src="05648444-7dc7-4c71-9a25-656e98a6a0a0.jpg" width="400px" height="250px">
+        </a>
+        &emsp; &emsp; &emsp; &emsp;
+        <a href="https://en.wikipedia.org/wiki/Konark_Sun_Temple"target="a">
+            <img src="If_you_want_to_know_chariot_shaped_temple_then_do_read_Konark_Sun_Temple_facts_65639b2334.jpg" width="400px" height="250px">
+        </a>    
+    </div>
+
+    <h2>&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &ensp; &nbsp;Qutub Minar&emsp; &emsp; &emsp; &emsp;&emsp;
+         &emsp; &emsp; &emsp;&emsp; &emsp; &ensp; &ensp;&ensp;Victoria Memorial&emsp; &emsp; &emsp; &emsp;&emsp; 
+         &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &ensp;Sun Temple</h2>
+
+    <div align="left">
+        &emsp; &emsp; &emsp; &nbsp;
+        <a href="https://en.wikipedia.org/wiki/Gol_Gumbaz" target="a">
+            <img src="attr_1684.jpg" width="400px" height="250px" >
+            
+            
+        </a>
+        &emsp; &emsp; &emsp; &emsp;
+        <a href="https://en.wikipedia.org/wiki/Rani_ki_vav"target="a">
+            <img src="navbharat-times.webp"width="400px" height="250px">
+        </a>
+        &emsp; &emsp; &emsp; &emsp;
+        <a href="https://en.wikipedia.org/wiki/Orchha"target="a">
+            <img src="cover-for-Things-To-Do-In-Orchha_18th-Dec.webp" width="400px" height="250px">
+        </a>
+    </div>
+    <h2>&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; Gol Gumbaz&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;
+         &emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp;Rani ki Vav&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;
+         &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&ensp;&nbsp; &emsp;Orchaa</h2><br>
+         &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &ensp; &ensp; &ensp;
+
+    
+    <audio controls>
+    <source src="Jana Gana Mana (HD) - National Anthem With Lyrics - Best Patriotic Song.mp3">
+   </audio>
+   <div align="center">
+   <h2>National Anthem</h2>
+</div>
+<br><br>
+    <div align="center">
+        <footer>Thankyou</footer>
+    </div>
+</html>
