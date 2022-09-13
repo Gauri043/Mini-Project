@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style3.css">
+    <title>Major Project</title>
+</head>
+
+<body>
+
+    <div class="container">
+        
+        <div class="current_info">
+
+            <div class="datetime_container">
+                <div class="time" id="time">
+                    11:30 <span id="am-pm">PM</span>
+                </div>
+                <div class="date" id="date">
+                    Wednesday, 7 September
+                </div>
+                <div class="others" id="current_weather_items">
+                    hello
+                </div>
+            </div>
+
+            <div class="place_container">
+                <div class="time_zone" id="time_zone">Kolkata</div>
+                <div class="country" id="country">IND</div>
+                <div>IND</div>
+    
+            </div>
+
+        </div>
+    </div>
+
+        <div class="forecast_info">
+            <div class="today" id="today_temp">
+                <img src="https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather02-512.png" alt="weather icon" class="wicon" width="75 px">
+                <div class="others">
+                    <div class="day">Wednesday</div>
+                    
+                    <div class="temp">Day - 37&#176;C</div>
+                    <div class="temp">Night - 27&#176;C</div>
+                </div>
+            </div>
+
+            <div class="weather_forecast" id="weather_forecast">
+                <div class="forecast_item">
+                    <div class="day">Thursday</div>
+                    <img src="https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather02-512.png" alt="weather icon" class="wicon" width="50 px">
+                    <div class="temp">Day - 37&#176;C</div>
+                    <div class="temp">Night - 27&#176;C</div>
+                </div>
+                <div class="forecast_item">
+                    <div class="day">Friday</div>
+                    <img src="https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather02-512.png" alt="weather icon" class="wicon" width="50 px">
+                    <div class="temp">Day - 37&#176;C</div>
+                    <div class="temp">Night - 27&#176;C</div>
+                </div>
+                <div class="forecast_item">
+                    <div class="day">Saturday</div>
+                    <img src="https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather02-512.png" alt="weather icon" class="wicon" width="50px">
+                    <div class="temp">Day - 37&#176;C</div>
+                    <div class="temp">Night - 27&#176;C</div>
+                </div>
+                <div class="forecast_item">
+                    <div class="day">Sunday</div>
+                    <img src="https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather02-512.png" alt="weather icon" class="wicon" width="50 px">
+                    <div class="temp">Day - 37&#176;C</div>
+                    <div class="temp">Night - 27&#176;C</div>
+                </div>
+                <div class="forecast_item">
+                    <div class="day">Monday</div>
+                    <img src="https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather02-512.png" alt="weather icon" class="wicon" width="50 px">
+                    <div class="temp">Day - 37&#176;C</div>
+                    <div class="temp">Night - 27&#176;C</div>
+                </div>
+                <div class="forecast_item">
+                    <div class="day">Tuesday</div>
+                    <img src="https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather02-512.png" alt="weather icon" class="wicon" width="50 px">
+                    <div class="temp">Day - 37&#176;C</div>
+                    <div class="temp">Night - 27&#176;C</div>
+                </div>
+
+            </div>
+
+      </div>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" 
+      integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==" 
+      crossorigin="anonymous" referrerpolicy="no-referrer"></script> 
+
+      <script src="script.js"></script>
+    
+</body>
+</html>
